@@ -105,7 +105,7 @@
         <module>resteasy-test-data</module>
         <module>resteasy-jaxrs</module>
         <module>resteasy-test-tjws</module>
-        <module>resteasy-jaxrs-test</module>
+        <!--module>resteasy-jaxrs-test</module-->
         <module>providers</module>
         <module>resteasy-jaxrs-war</module>
         <module>resteasy-bom</module>
@@ -127,7 +127,7 @@
         <module>war-tests</module>
         <module>examples</module>
         <module>async-http-servlet-3.0</module>
-        <module>profiling-tests</module>
+        <!--module>profiling-tests</module-->
         <module>jboss-modules</module>
         <!-- <module>as7-integration-testing</module> -->
     </modules>

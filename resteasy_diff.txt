@@ -1,0 +1,512 @@
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/parent/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/parent/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-1043/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-1043/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-1043: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-736/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-736/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-736: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-752/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-752/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-752: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-760/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-760/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-760: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-767/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-767/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-767: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-800/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-800/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-800: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian/RESTEASY-802/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-802/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian/RESTEASY-802: src
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian: RESTEASY-TEST-EAP6
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/arquillian-deployment-scenario-provider/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/arquillian-deployment-scenario-provider/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: as7-integration-testing
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-jbossweb/async-http-jbossweb-jar/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-jbossweb/async-http-jbossweb-jar/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-jbossweb/async-http-jbossweb-jar: target
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-jbossweb: async-http-jbossweb-test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-jbossweb/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-jbossweb/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-servlet-3.0/async-http-servlet-3.0/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-servlet-3.0/async-http-servlet-3.0/pom.xml differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-servlet-3.0/async-http-servlet-3.0/target: async-http-servlet-3.0-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-servlet-3.0/async-http-servlet-3.0/target: async-http-servlet-3.0-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-servlet-3.0/async-http-servlet-3.0/target: async-http-servlet-3.0-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-servlet-3.0/async-http-servlet-3.0/target: async-http-servlet-3.0-2.3.9.Final-sources.jar
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-servlet-3.0/async-http-servlet-3.0/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-servlet-3.0/async-http-servlet-3.0/target/maven-archiver/pom.properties differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-servlet-3.0: async-http-servlet-3.0-test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-servlet-3.0/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-servlet-3.0/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-tomcat/asynch-http-tomcat-jar/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-tomcat/asynch-http-tomcat-jar/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-tomcat/asynch-http-tomcat-jar: target
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-tomcat: async-http-tomcat-test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/async-http-tomcat/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/async-http-tomcat/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/distribution/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/distribution/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/distribution/src-distribution/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/distribution/src-distribution/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/master.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/master.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Cache_NoCache_CacheControl.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Cache_NoCache_CacheControl.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/I18N.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/I18N.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Installation_Configuration.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Installation_Configuration.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Json.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Json.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Links.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Links.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Maven_and_RESTEasy.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Maven_and_RESTEasy.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/RESTEasy_Embedded_Container.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/RESTEasy_Embedded_Container.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/signature.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/signature.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/smime.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/smime.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Validation.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Validation.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/docbook/reference/en/en-US/modules/Yaml.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/docbook/reference/en/en-US/modules/Yaml.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/eagledns/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/src/main/java/se/unlogic/eagledns: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/src/main/java/se/unlogic/standardutils/date: DateStringyfier.java
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/target/classes/se/unlogic/eagledns: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/target/classes/se/unlogic/standardutils/date: DateStringyfier.class
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/eagledns/target: eagledns-fork-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/eagledns/target: eagledns-fork-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/target: eagledns-fork-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/target: eagledns-fork-2.3.9.Final-sources.jar
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/eagledns/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/eagledns/target/maven-archiver/pom.properties differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/api-clients/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/api-clients/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/async-job-service/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/async-job-service/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/async-job-service/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/async-job-service: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/digital-signatures/no-dns/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/no-dns/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/no-dns/src/main: java
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/no-dns/src/main: resources
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/no-dns/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/no-dns: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/digital-signatures/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/digital-signatures/use-dns/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/use-dns/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/use-dns/src/main: java
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/use-dns/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/digital-signatures/use-dns: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/ejb-integration/ear/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/ejb-integration/ear/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/ejb-integration/ear: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/ejb-integration/ejb/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/ejb-integration/ejb/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/ejb-integration/ejb: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/ejb-integration/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/ejb-integration/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/ejb-integration/war/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/ejb-integration/war/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/examples-jsapi/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/examples-jsapi/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/examples-jsapi: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/guice-hello/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/guice-hello/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/guice-hello/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/guice-hello: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/jaxb-json/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/jaxb-json/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/jaxb-json: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-catalina-authenticator/authenticator/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-catalina-authenticator/authenticator/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-catalina-authenticator/authenticator: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-catalina-authenticator/oauth/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-catalina-authenticator/oauth/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-catalina-authenticator/oauth: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-catalina-authenticator/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-catalina-authenticator/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-provider/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-provider/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-provider: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-push-messaging/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-push-messaging-openid/openid/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging-openid/openid/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging-openid/openid/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging-openid/openid: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-push-messaging-openid/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging-openid/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/oauth-push-messaging-openid/push-messaging/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging-openid/push-messaging/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/oauth-push-messaging-openid/push-messaging: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oauth-examples/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oauth-examples/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex03_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex03_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex03_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex03_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex04_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex04_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_2/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_2: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex04_3/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_3/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_3/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex04_3: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex05_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex05_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex05_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex05_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex05_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex05_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex05_2: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex06_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex06_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex06_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex06_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex06_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex06_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex06_2/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex06_2: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex07_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex07_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex07_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex07_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex08_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex08_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex08_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex08_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex08_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex08_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex08_2: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex09_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex09_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex09_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex09_1: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex09_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex09_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex09_2/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex09_2: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex10_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex10_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex10_1/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex10_1: target
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex11_1/ear: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex11_1/ejb/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex11_1/ejb/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex11_1/war/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex11_1/war/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook/ex11_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex11_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex11_2/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook/ex11_2: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex03_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex03_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex03_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex04_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex04_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex04_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex04_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex04_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex04_2/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex04_3/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex04_3/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex04_3/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex05_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex05_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex05_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex05_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex05_2/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex06_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex06_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex06_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex06_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex06_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex06_2/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex07_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex07_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex07_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex08_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex08_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex08_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex08_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex08_2/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex09_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex09_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex09_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex09_2/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex09_2/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex09_2/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex10_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex10_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex10_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/oreilly-workbook-as7/ex11_1/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex11_1/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/oreilly-workbook-as7/ex11_1/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/resteasy-springMVC/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/resteasy-springMVC/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/resteasy-springMVC/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/resteasy-springMVC: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/smime/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/smime/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/smime/src/main: java
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/smime/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/smime: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/spring-hibernate-contacts/core/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/spring-hibernate-contacts/core/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/spring-hibernate-contacts/persistence/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/spring-hibernate-contacts/persistence/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/spring-hibernate-contacts/persistence/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/spring-hibernate-contacts/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/spring-hibernate-contacts/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/examples/spring-hibernate-contacts/services/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/examples/spring-hibernate-contacts/services/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: .git
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/.gitignore and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/.gitignore differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat: jaxrs
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jaxrs-api/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jaxrs-api/target/generated-sources/annotations/org/jboss/resteasy/jaxrs_api/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target/generated-sources/annotations/org/jboss/resteasy/jaxrs_api/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jaxrs-api/target/generated-sources/annotations/org/jboss/resteasy/jaxrs_api/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target/generated-sources/annotations/org/jboss/resteasy/jaxrs_api/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target/generated-sources: test-annotations
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jaxrs-api/target: jaxrs-api-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jaxrs-api/target: jaxrs-api-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target: jaxrs-api-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target: jaxrs-api-2.3.9.Final-sources.jar
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jaxrs-api/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target/maven-archiver/pom.properties differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target: surefire-reports
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jaxrs-api/target: test-classes
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: jboss-integration-testing
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jboss-modules/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/pom.xml differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/jboss-modules/src/main/resources/modules/org: jboss
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-atom-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-cdi
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-hibernatevalidator-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-jackson-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-jaxb-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-jaxrs
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-jettison-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-jsapi
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-multipart-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules/src/main/resources/modules/org: jboss.resteasy.resteasy-yaml-provider
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/jboss-modules: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: profiling-tests
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/abdera-atom/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/abdera-atom/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/abdera-atom/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/fastinfoset/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/fastinfoset/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/fastinfoset/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/fastinfoset/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/fastinfoset/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/fastinfoset/target: resteasy-fastinfoset-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/fastinfoset/target: resteasy-fastinfoset-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/target: resteasy-fastinfoset-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/target: resteasy-fastinfoset-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/fastinfoset/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jackson/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jackson/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jackson/target: resteasy-jackson-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jackson/target: resteasy-jackson-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/target: resteasy-jackson-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/target: resteasy-jackson-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jackson/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/src/main/java/org/jboss/resteasy/plugins/providers/jaxb/SecureUnmarshaller.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/src/main/java/org/jboss/resteasy/plugins/providers/jaxb/SecureUnmarshaller.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/jaxb/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/jaxb/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/jaxb/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/jaxb/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/target: resteasy-jaxb-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jaxb/target: resteasy-jaxb-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target: resteasy-jaxb-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target: resteasy-jaxb-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target: surefire
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target: surefire-reports
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jaxb/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jettison/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jettison/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/jaxb/json/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/jaxb/json/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jettison/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jettison/target: resteasy-jettison-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/jettison/target: resteasy-jettison-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/target: resteasy-jettison-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/target: resteasy-jettison-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/jettison/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/multipart/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/multipart/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/multipart/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/multipart/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/multipart/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/multipart/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/multipart/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/multipart/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/multipart/target: resteasy-multipart-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/multipart/target: resteasy-multipart-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target: resteasy-multipart-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target: resteasy-multipart-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/multipart/target: test-classes
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers: pom-prod.xml
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-atom/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-atom/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/resteasy_atom/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/resteasy_atom/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-atom/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-atom/target: resteasy-atom-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-atom/target: resteasy-atom-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/target: resteasy-atom-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/target: resteasy-atom-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-atom/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/src/main/java/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/src/main/java/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$1.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$1.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$2.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$2.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$3.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$3.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$4.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$4.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$5.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$5.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$6.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$6.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S1.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S1.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S2.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S2.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S3.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S3.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S4.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S4.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S5.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/classes/org/jboss/resteasy/plugins/validation/hibernate/HibernateValidatorAdapter$S5.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/generated-sources/annotations/org/jboss/resteasy/plugins/hibernatevalidator/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/generated-sources/annotations/org/jboss/resteasy/plugins/hibernatevalidator/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/generated-sources/annotations/org/jboss/resteasy/plugins/hibernatevalidator/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/generated-sources/annotations/org/jboss/resteasy/plugins/hibernatevalidator/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target: resteasy-hibernatevalidator-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-hibernatevalidator-provider/target: resteasy-hibernatevalidator-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target: resteasy-hibernatevalidator-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target: resteasy-hibernatevalidator-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-hibernatevalidator-provider/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-html/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-html/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/html/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/html/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-html/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-html/target: resteasy-html-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/resteasy-html/target: resteasy-html-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/target: resteasy-html-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/target: resteasy-html-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/resteasy-html/target: test-classes
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers: test-all-jaxb
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers: test-jackson-jaxb-coexistence
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers: test-resteasy-html
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/yaml/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/yaml/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/yaml/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/yaml/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/yaml/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/yaml/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target/generated-sources/annotations/org/jboss/resteasy/plugins/providers/yaml/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/yaml/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/yaml/target: resteasy-yaml-provider-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/providers/yaml/target: resteasy-yaml-provider-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target: resteasy-yaml-provider-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target: resteasy-yaml-provider-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/providers/yaml/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-bom/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-bom/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cache/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cache/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cache/resteasy-cache-core/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cache/resteasy-cache-core/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cache/resteasy-cache-core/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cache/resteasy-cache-core: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/target/classes/org/jboss/resteasy/cdi/i18n/Messages_$bundle.class and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target/classes/org/jboss/resteasy/cdi/i18n/Messages_$bundle.class differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/target/generated-sources/annotations/org/jboss/resteasy/cdi/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target/generated-sources/annotations/org/jboss/resteasy/cdi/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/target/generated-sources/annotations/org/jboss/resteasy/cdi/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target/generated-sources/annotations/org/jboss/resteasy/cdi/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/target: resteasy-cdi-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-cdi/target: resteasy-cdi-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target: resteasy-cdi-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target: resteasy-cdi-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-cdi/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-client/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-client/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-common/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-common/pom.xml differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat: resteasy_diff.txt
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-guice/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-guice/target/generated-sources/annotations/org/jboss/resteasy/plugins/guice/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target/generated-sources/annotations/org/jboss/resteasy/plugins/guice/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-guice/target/generated-sources/annotations/org/jboss/resteasy/plugins/guice/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target/generated-sources/annotations/org/jboss/resteasy/plugins/guice/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-guice/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-guice/target: resteasy-guice-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-guice/target: resteasy-guice-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target: resteasy-guice-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target: resteasy-guice-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-guice/target: test-classes
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs: .idea
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/src/main/java/org/jboss/resteasy/util/Types.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/src/main/java/org/jboss/resteasy/util/Types.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jaxrs/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jaxrs/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jaxrs/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jaxrs/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/target: resteasy-jaxrs-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs/target: resteasy-jaxrs-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target: resteasy-jaxrs-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target: resteasy-jaxrs-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target: surefire-reports
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs-test/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/pom.xml differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs-test: pom.xml~
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs-test/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs-test/target: resteasy-jaxrs-test-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs-test/target: resteasy-jaxrs-test-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target: resteasy-jaxrs-test-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target: resteasy-jaxrs-test-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target: surefire-reports
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target: test-classes
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target: test-data
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-test/target: unit-tests.log
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jaxrs-war/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-war/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-war/src/main: java
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jaxrs-war: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jsapi/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jsapi/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jsapi/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jsapi/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jsapi/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jsapi/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target/generated-sources/annotations/org/jboss/resteasy/resteasy_jsapi/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jsapi/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jsapi/target: resteasy-jsapi-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-jsapi/target: resteasy-jsapi-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target: resteasy-jsapi-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target: resteasy-jsapi-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-jsapi/target: test-classes
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: resteasy-jsapi-testing
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-links/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-links/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-links/src: test
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-links: target
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring/target/generated-sources/annotations/org/jboss/resteasy/plugins/spring/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target/generated-sources/annotations/org/jboss/resteasy/plugins/spring/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring/target/generated-sources/annotations/org/jboss/resteasy/plugins/spring/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target/generated-sources/annotations/org/jboss/resteasy/plugins/spring/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target/maven-archiver/pom.properties differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring/target/resteasy-spring.jar and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target/resteasy-spring.jar differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring/target/resteasy-spring-sources.jar and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target/resteasy-spring-sources.jar differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jboss/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jboss/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jboss: src
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/src/main/java/org/jboss/resteasy/springmvc/JettyLifecycleManager.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/src/main/java/org/jboss/resteasy/springmvc/JettyLifecycleManager.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/target/generated-sources/annotations/org/jboss/resteasy/spring/jetty/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target/generated-sources/annotations/org/jboss/resteasy/spring/jetty/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/target/generated-sources/annotations/org/jboss/resteasy/spring/jetty/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target/generated-sources/annotations/org/jboss/resteasy/spring/jetty/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/target: resteasy-spring-jetty-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-spring-jetty/target: resteasy-spring-jetty-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target: resteasy-spring-jetty-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target: resteasy-spring-jetty-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-spring-jetty/target: test-classes
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: resteasy-test-arquillian
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: resteasy-test-data
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws/target: resteasy-test-tjws-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws/target: resteasy-test-tjws-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws/target: resteasy-test-tjws-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws/target: resteasy-test-tjws-2.3.9.Final-sources.jar
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws-spring/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws-spring/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws-spring/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws-spring/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws-spring/target: resteasy-test-tjws-spring-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/resteasy-test-tjws-spring/target: resteasy-test-tjws-spring-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws-spring/target: resteasy-test-tjws-spring-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/resteasy-test-tjws-spring/target: resteasy-test-tjws-spring-2.3.9.Final-sources.jar
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/pom.xml differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto: python_encrypted_signed.txt
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto: smime_signed_bad.txt
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto: smime_signed.txt
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto/target/generated-sources/annotations/org/jboss/resteasy/crypto/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target/generated-sources/annotations/org/jboss/resteasy/crypto/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto/target/generated-sources/annotations/org/jboss/resteasy/crypto/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target/generated-sources/annotations/org/jboss/resteasy/crypto/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto/target: resteasy-crypto-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-crypto/target: resteasy-crypto-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target: resteasy-crypto-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target: resteasy-crypto-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-crypto/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-oauth/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-oauth/target/generated-sources/annotations/org/jboss/resteasy/auth/oauth/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target/generated-sources/annotations/org/jboss/resteasy/auth/oauth/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-oauth/target/generated-sources/annotations/org/jboss/resteasy/auth/oauth/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target/generated-sources/annotations/org/jboss/resteasy/auth/oauth/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-oauth/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-oauth/target: resteasy-oauth-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/security/resteasy-oauth/target: resteasy-oauth-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target: resteasy-oauth-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target: resteasy-oauth-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/security/resteasy-oauth/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-jdk-http/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-jdk-http/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/sun/http/resteasy_jdk_http/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/sun/http/resteasy_jdk_http/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-jdk-http/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/sun/http/resteasy_jdk_http/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/sun/http/resteasy_jdk_http/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-jdk-http/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-jdk-http/target: resteasy-jdk-http-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-jdk-http/target: resteasy-jdk-http-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target: resteasy-jdk-http-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target: resteasy-jdk-http-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-jdk-http/target: test-classes
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-netty/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/pom.xml differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/src: test
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-netty/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/netty/i18n/LogMessages_$logger.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/netty/i18n/LogMessages_$logger.java differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-netty/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/netty/i18n/Messages_$bundle.java and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target/generated-sources/annotations/org/jboss/resteasy/plugins/server/netty/i18n/Messages_$bundle.java differ
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target/generated-sources: test-annotations
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-netty/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-netty/target: resteasy-netty-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/server-adapters/resteasy-netty/target: resteasy-netty-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target: resteasy-netty-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target: resteasy-netty-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters/resteasy-netty/target: test-classes
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters: resteasy-test-jdk-http
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/server-adapters: resteasy-test-netty
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/tjws/pom.xml and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/tjws/pom.xml differ
+Files /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/tjws/target/maven-archiver/pom.properties and /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/tjws/target/maven-archiver/pom.properties differ
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/tjws/target: tjws-2.3.10.Final-redhat-SNAPSHOT.jar
+Only in /home/panos/RestEasy/resteasy-2.3.10.Final-redhat/tjws/target: tjws-2.3.10.Final-redhat-SNAPSHOT-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/tjws/target: tjws-2.3.9.Final.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx/tjws/target: tjws-2.3.9.Final-sources.jar
+Only in /home/panos/NetBeansProjects/gitOfficial/Resteasy-3.3.xx: war-tests
